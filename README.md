@@ -131,4 +131,12 @@ src/
 
 ## License
 
-UNLICENSED
+[LICENSE](LICENSE)
+
+---
+
+<p align="center">
+  <strong>Built with ❤️ by <a href="https://github.com/Cstrp">@Cstrp</a></strong>
+</p>
+
+---
