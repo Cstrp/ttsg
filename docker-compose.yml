@@ -1,0 +1,10 @@
+services:
+  ttsg:
+    build: .
+    volumes:
+      - ./credentials:/app/credentials:ro
+      - ./output:/app/output
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
